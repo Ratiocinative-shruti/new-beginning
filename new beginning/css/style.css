@@ -837,6 +837,10 @@ p.p-37px.a {
     border-radius: 4px;
     border: 1px solid white;
 }
+input{
+    font-size: 15px;
+    color: white;
+}
 .div-4email{
     min-width: 290px;
 }
